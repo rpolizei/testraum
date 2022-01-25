@@ -1,2 +1,2 @@
 # testraum
-room for tests
+this is a public repo - a room for tests
